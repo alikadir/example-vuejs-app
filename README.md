@@ -1,4 +1,4 @@
-# example-vuejs-app
+# This is a Vue 3 web app that contains fetching data from server and two-way binding
 
 ## Project setup
 ```
